@@ -7,8 +7,8 @@ describe('add', () => {
   })
 })
 
-// describe('error', () => {
-//   it('test error', () => {
-//     expect(add(3, 4)).toBe(6)
-//   })
-// })
+describe('error', () => {
+  it('test error', () => {
+    expect(add(3, 4)).toBe(6)
+  })
+})
